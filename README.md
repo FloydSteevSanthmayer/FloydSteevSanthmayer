@@ -4,15 +4,15 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20"/>
   </a>
 
   <a href="https://your-portfolio.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="20"/>
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="20"/>
   </a>
 </p>
 <p align="right">
