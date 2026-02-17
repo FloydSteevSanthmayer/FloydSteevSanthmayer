@@ -1,5 +1,5 @@
 <!-- Name -->
-<h1 align="center" style="font-size:45px; margin-bottom:5px;">
+<h1 align="center" style="font-size:50px; margin-bottom:5px;">
   Hi, I'm <strong>Floyd Steev Santhmayer</strong>
 </h1>
 
@@ -23,9 +23,9 @@
   <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
 </p>
 
-<h2 style="font-size:30px; font-weight:700; margin-top:10px;">
+<h2 style="font-size:34px; font-weight:700; margin-top:10px;">
   About Me
-</h2>
+
 - **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
   - Focused on turning raw data into clear, actionable business insights.
