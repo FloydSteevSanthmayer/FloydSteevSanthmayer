@@ -29,8 +29,8 @@
 
 ## 📫 Contact
 - GitHub: [@FloydSteevSanthmayer](https://github.com/FloydSteevSanthmayer)
-- Email: `your.email@example.com` (replace with your email)
-- LinkedIn: `https://www.linkedin.com/in/your-profile` (replace with your LinkedIn)
+- Email: `floydsteev.santhmayer@gmail.com` (replace with your email)
+- LinkedIn: `[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/floydsteevsanthmayer)` (replace with your LinkedIn)
 
 ---
 
