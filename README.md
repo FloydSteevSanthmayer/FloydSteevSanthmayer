@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/loydsteevsanthmayer" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <!-- Portfolio -->
