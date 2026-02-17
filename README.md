@@ -27,9 +27,6 @@
   - A/B testing and KPI design for measurable experiments
   - Interactive dashboard development for stakeholder reporting
   - Building reproducible, production-ready data workflows
-
-- **📈 Impact**
-  - Translate complex datasets into dashboards and reports that inform business decisions and measure outcomes.
 ---
 
 ## 🧰 Tech & Tools
