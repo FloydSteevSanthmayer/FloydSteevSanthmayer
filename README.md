@@ -38,12 +38,15 @@
   - Interactive dashboard development for stakeholder reporting
   - Building reproducible, production-ready data workflows
     
-- **🛠️ Technical skills**
-  - Python: `pandas`, `numpy`, `scikit-learn`, visualization (Matplotlib / Seaborn / Plotly)
-  - SQL & Databases: `SQL`, `PostgreSQL`, `Snowflake`
-  - BI & Visualization: `Power BI`, `Tableau`, Excel
-  - Data engineering: ETL pipelines, data cleaning, data validation
-  - Tools: `Git`, `Docker`
+- **🛠️ Technical Skills**
+
+  - **Programming & Analytics**: Python (`pandas`, `numpy`, `scikit-learn`), SQL  
+  - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Model Evaluation, Feature Engineering  
+  - **Data Preprocessing & Transformation**: Data Cleaning, Handling Missing Values, Encoding, Scaling, Feature Selection  
+  - **Data Visualization & BI**: Power BI, Tableau, Excel, Matplotlib, Seaborn, Plotly  
+  - **Databases & Data Warehousing**: PostgreSQL, Snowflake  
+  - **Data Engineering & ETL**: Data Extraction, Transformation Pipelines, Data Validation, Workflow Automation  
+  - **Tools & Version Control**: Git
 ---
 
 ## 🧰 Tech & Tools
