@@ -1,5 +1,6 @@
-# Hi 👋,
-        I'm **Floyd Steev Santhmayer**
+# <p align="center">Hi, there! It's</p>
+
+<h1 align="center"><strong>Floyd Steev Santhmayer</strong></h1>
 **Data Analyst | Aspiring Data Scientist | SQL • Python • Power BI**
 
 [![Profile views](https://komarev.com/ghpvc/?username=FloydSteevSanthmayer)](https://github.com/FloydSteevSanthmayer)
