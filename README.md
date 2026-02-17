@@ -1,32 +1,31 @@
-<!-- Name -->
-<h1 align="center" style="font-size:45px; margin-bottom:5px;">
-  Hi, I'm <strong>Floyd Steev Santhmayer</strong>
-</h1>
+<!-- Header with side-aligned profile views -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<!-- Social Buttons -->
-<p align="center" style="margin-top:5px; margin-bottom:6px;">
+# Hi, I'm **Floyd Steev Santhmayer**
 
-  <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="22"/>
 
-  <a href="https://your-portfolio.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="20"/>
-  </a>
+</div>
 
-  <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="20"/>
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="22"/>
+</a>
+
+<a href="https://your-portfolio.site" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="22"/>
+</a>
+
+<a href="mailto:floydsteev.santhmayer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="22"/>
+</a>
 
 </p>
 
-<!-- Profile Views (Below Buttons) -->
-<p align="center" style="margin-top:4px; margin-bottom:10px;">
-  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
-</p>
+---
 
-<hr/>
-<h2>About Me</h2>
+## About Me
 - **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
   - Focused on turning raw data into clear, actionable business insights.
