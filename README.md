@@ -18,6 +18,7 @@
  <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
+  
 [![Profile views](https://komarev.com/ghpvc/?username=FloydSteevSanthmayer)](https://github.com/FloydSteevSanthmayer)
 
 ---
