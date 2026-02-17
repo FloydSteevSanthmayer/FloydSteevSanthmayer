@@ -2,10 +2,6 @@
   Hi, I'm <strong>Floyd Steev Santhmayer</strong>
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="22"/>
-
-</div>
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
