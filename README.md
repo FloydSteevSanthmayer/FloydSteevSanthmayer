@@ -1,23 +1,29 @@
-<h1 align="center" style="text-align:center; font-size:48px; margin-bottom:5px;">
+<!-- Name -->
+<h1 align="center" style="font-size:45px; margin-bottom:5px;">
   Hi, I'm <strong>Floyd Steev Santhmayer</strong>
 </h1>
 
-<p align="center">
+<!-- Social Buttons -->
+<p align="center" style="margin-top:5px; margin-bottom:2px;">
+  <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="22"/>
-</a>
+  <a href="https://your-portfolio.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="20"/>
+  </a>
 
-<a href="https://your-portfolio.site" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="22"/>
-</a>
-
-<a href="mailto:floydsteev.santhmayer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="22"/>
-</a>
-
+  <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="20"/>
+  </a>
 </p>
 
+<!-- Profile Views (Right Side Below Buttons) -->
+<p align="right" style="margin-top:2px; margin-bottom:8px;">
+  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
+</p>
+
+<hr/>
 ---
 
 ## About Me
