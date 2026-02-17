@@ -1,7 +1,6 @@
-<!-- Header with side-aligned profile views -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-# Hi, I'm **Floyd Steev Santhmayer**
+<h1 align="center" style="text-align:center; font-size:48px; margin-bottom:5px;">
+  Hi, I'm <strong>Floyd Steev Santhmayer</strong>
+</h1>
 
 <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="22"/>
 
