@@ -2,7 +2,12 @@
 <h1 align="center" style="font-size:50px; margin-bottom:5px;">
   Hi, I'm <strong>Floyd Steev Santhmayer</strong>
 </h1>
-
+<!-- Subtitle / Role Line -->
+<p align="center" style="font-size:18px; margin-top:0px; margin-bottom:8px;">
+  <strong>
+    Data Analyst | Aspiring Data Scientist | ML Enthusiast | Data Storyteller | Business Intelligence
+  </strong>
+</p>
 <!-- Social Buttons -->
 <p align="center" style="margin-top:5px; margin-bottom:2px;">
   <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
