@@ -1,10 +1,10 @@
-<!-- Profile Views (Right Side) -->
-<p align="right" style="margin-bottom:4px;">
-  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
-</p>
+<!-- Name -->
+<h1 align="center" style="font-size:45px; margin-bottom:5px;">
+  Hi, I'm <strong>Floyd Steev Santhmayer</strong>
+</h1>
 
-<!-- Social Buttons Centered -->
-<p align="center" style="margin-top:0px; margin-bottom:6px;">
+<!-- Social Buttons -->
+<p align="center" style="margin-top:5px; margin-bottom:6px;">
 
   <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20"/>
@@ -20,8 +20,14 @@
 
 </p>
 
-<h2 style="margin-top:6px;">About Me</h2>
+<!-- Profile Views (Below Buttons) -->
+<p align="center" style="margin-top:4px; margin-bottom:10px;">
+  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
+</p>
 
+<hr/>
+
+<h2>About Me</h2>
 - **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
   - Focused on turning raw data into clear, actionable business insights.
