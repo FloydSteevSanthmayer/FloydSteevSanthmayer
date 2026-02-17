@@ -88,9 +88,16 @@
 | [**yolov8-Aerial-detector**](https://github.com/FloydSteevSanthmayer/yolov8-Aerial-detector) | YOLOv8-based ship detection training and inference. | Python, YOLOv8, Label Studio |
 
 ---
+## 📊 GitHub Stats & Activity
 
-> Tip: To show GitHub stats, keep the `username` in the badges above (they update automatically).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FloydSteevSanthmayer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=FloydSteevSanthmayer&theme=github-dark-blue&hide_border=true" height="165"/>
+</p>
 
-*Made for Floyd Steev Santhmayer — edit freely and update as your projects grow.* 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloydSteevSanthmayer&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
