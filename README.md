@@ -24,7 +24,6 @@
 </p>
 
 <hr/>
----
 
 ## About Me
 - **💼 Professional summary**
