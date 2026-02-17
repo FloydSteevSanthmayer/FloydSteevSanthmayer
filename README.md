@@ -1,6 +1,24 @@
-# Hi, I'm **Floyd Steev Santhmayer**
-**Data Analyst | Aspiring Data Scientist | SQL • Python • Power BI**
+<!-- Centered header -->
+<h1 align="center">Hi, I'm <strong>Floyd Steev Santhmayer</strong></h1>
 
+<p align="center">
+  <strong>Data Analyst | Aspiring Data Scientist | ML Enthusiast | Blockchain Explorer | Lifelong Learner</strong>
+</p>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <!-- Portfolio -->
+  <a href="https://your-portfolio.site" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge"/>
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:your.email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 [![Profile views](https://komarev.com/ghpvc/?username=FloydSteevSanthmayer)](https://github.com/FloydSteevSanthmayer)
 
 ---
