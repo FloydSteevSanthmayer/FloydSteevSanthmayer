@@ -26,7 +26,6 @@
 </p>
 
 <hr/>
-
 <h2>About Me</h2>
 - **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
