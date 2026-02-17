@@ -31,19 +31,19 @@
   - Strong communicator — translate technical results into concise, non-technical recommendations for stakeholders.
   - Adept at automating reporting, building reproducible pipelines, and operationalizing analyses for repeated use.
 
-- **🛠️ Technical skills**
-  - Python: `pandas`, `numpy`, `scikit-learn`, visualization (Matplotlib / Seaborn / Plotly)
-  - SQL & Databases: `SQL`, `PostgreSQL`, `Snowflake`
-  - BI & Visualization: `Power BI`, `Tableau`, Excel
-  - Data engineering: ETL pipelines, data cleaning, data validation
-  - Tools: `Git`, `Docker`
-
 - **⚡ Core strengths**
   - Exploratory Data Analysis (EDA) and data preprocessing
   - Feature engineering and predictive/statistical modeling
   - A/B testing and KPI design for measurable experiments
   - Interactive dashboard development for stakeholder reporting
   - Building reproducible, production-ready data workflows
+    
+- **🛠️ Technical skills**
+  - Python: `pandas`, `numpy`, `scikit-learn`, visualization (Matplotlib / Seaborn / Plotly)
+  - SQL & Databases: `SQL`, `PostgreSQL`, `Snowflake`
+  - BI & Visualization: `Power BI`, `Tableau`, Excel
+  - Data engineering: ETL pipelines, data cleaning, data validation
+  - Tools: `Git`, `Docker`
 ---
 
 ## 🧰 Tech & Tools
