@@ -44,20 +44,6 @@
 
 ---
 
-## 📫 Contact
-- GitHub: [@FloydSteevSanthmayer](https://github.com/FloydSteevSanthmayer)
-- Email: `floydsteev.santhmayer@gmail.com` (replace with your email)
-- LinkedIn: `https://www.linkedin.com/in/floydsteevsanthmayer` 
-
----
-
-## 🛠 How to use this README
-1. Copy this `README.md` into a repository named exactly `FloydSteevSanthmayer` (see profile README steps below).  
-2. Replace placeholder links & contact info with your real links and email.  
-3. Customize projects and tech list to match your portfolio.
-
----
-
 > Tip: To show GitHub stats, keep the `username` in the badges above (they update automatically).
 
 ---
