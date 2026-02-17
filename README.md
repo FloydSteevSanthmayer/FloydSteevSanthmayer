@@ -2,22 +2,19 @@
 <h1 align="center">Hi, I'm <strong>Floyd Steev Santhmayer</strong></h1>
 
 <p align="center">
-  <strong>Data Analyst | Aspiring Data Scientist | ML Enthusiast | Business Intelligence | Data Storyteller</strong>
-</p>
 
-<p align="center">
-  <!-- LinkedIn -->
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=23"/>
-  <!-- Portfolio -->
-  <a href="https://your-portfolio.site" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <!-- Gmail -->
- <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-</a>
-  <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18.5"/>
+
+  <a href="https://your-portfolio.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
+
 </p>
 
 # About Me
