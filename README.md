@@ -15,7 +15,7 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge"/>
   </a>
   <!-- Gmail -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:floydsteev.santhmayer@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
