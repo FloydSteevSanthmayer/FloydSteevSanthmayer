@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=23"/>
   <!-- Portfolio -->
   <a href="https://your-portfolio.site" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge"/>
