@@ -23,8 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
 </p>
 
-<hr/>
-
 ## About Me
 - **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
