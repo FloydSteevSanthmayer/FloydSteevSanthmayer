@@ -23,11 +23,11 @@
   <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
 </p>
 
-<h2 style="font-size:32px; font-weight:700; margin-top:10px;">
+<h2 style="font-size:34px; font-weight:700; margin-top:1px;">
   About Me
 </h2>
 
-  - **💼 Professional summary**
+- **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
   - Focused on turning raw data into clear, actionable business insights.
   - Deliver insights to product, marketing, and operations teams to inform strategy and prioritization.
