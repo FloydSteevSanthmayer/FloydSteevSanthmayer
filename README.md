@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <strong>Floyd Steev Santhmayer</strong></h1>
 
 <p align="center">
-  <strong>Data Analyst | Aspiring Data Scientist | ML Enthusiast | Blockchain Explorer | Lifelong Learner</strong>
+  <strong>Data Analyst | Aspiring Data Scientist | ML Enthusiast | Business Intelligence | Data Storyteller</strong>
 </p>
 
 <p align="center">
