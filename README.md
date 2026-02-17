@@ -1,5 +1,5 @@
 <!-- Centered header -->
-<h1 align="center" style="font-size:42px;">
+<h1 align="center" style="font-size:45px;">
   Hi, I'm <strong>Floyd Steev Santhmayer</strong>
 </h1>
 <p align="center">
