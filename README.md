@@ -5,11 +5,34 @@
 
 ---
 
-## 🔭 About Me
-- Associate Data Scientist transitioning to Data Analyst roles.
-- Experienced with SQL, Python (pandas, numpy), Power BI, Tableau, and Git.
-- Passionate about building reproducible data pipelines, exploratory analysis, and dashboards.
+# About Me
 
+- **Professional summary**
+  - Data-driven Data Analyst with a strong Data Science foundation.
+  - Focused on turning raw data into clear, actionable business insights.
+  - Deliver insights to product, marketing, and operations teams to inform strategy and prioritization.
+  - Strong communicator — translate technical results into concise, non-technical recommendations for stakeholders.
+  - Adept at automating reporting, building reproducible pipelines, and operationalizing analyses for repeated use.
+  - Committed to data quality and documentation; implement validation checks and data contracts to ensure reliable outputs.
+  - Collaborative cross-functional partner who can scope analytics projects, define KPIs, and measure impact.
+  - Continuous learner — keep up with new tools, modeling approaches, and best practices to improve delivery speed and accuracy.
+
+- **Technical skills**
+  - Python: `pandas`, `numpy`, `scikit-learn`, visualization (Matplotlib / Seaborn / Plotly)
+  - SQL & Databases: `SQL`, `PostgreSQL`, `Snowflake`
+  - BI & Visualization: `Power BI`, `Tableau`, Excel
+  - Data engineering: ETL pipelines, data cleaning, data validation
+  - Tools: `Git`, `Docker`
+
+- **Core strengths**
+  - Exploratory Data Analysis (EDA) and data preprocessing
+  - Feature engineering and predictive/statistical modeling
+  - A/B testing and KPI design for measurable experiments
+  - Interactive dashboard development for stakeholder reporting
+  - Building reproducible, production-ready data workflows
+
+- **Impact**
+  - Translate complex datasets into dashboards and reports that inform business decisions and measure outcomes.
 ---
 
 ## 🧰 Tech & Tools
