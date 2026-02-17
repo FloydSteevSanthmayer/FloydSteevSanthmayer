@@ -91,13 +91,5 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FloydSteevSanthmayer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=FloydSteevSanthmayer&theme=github-dark-blue&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloydSteevSanthmayer&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=FloydSteevSanthmayer&theme=github-dark-blue&hide_border=true&border_radius=12" width="75%"/>
 </p>
