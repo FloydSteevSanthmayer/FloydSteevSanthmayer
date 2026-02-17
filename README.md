@@ -81,11 +81,11 @@
 
 ## 🚀 Highlight Projects
 | Project | Short Description | Tech |
-|---|---:|---|
-| **Banking-dashboard-analytics** | End-to-end analytics project with data ingestion, cleaning, and interactive Power BI dashboard. | Python, SQL, Power BI |
-| **Customer-trends-analytics** | Reproducible pipeline analyzing retail customer purchase patterns. | Python, SQL, Power BI |
-| **technician-dispatch-api** | FastAPI service to dispatch technicians, integrates with Postgres. | Python, FastAPI, PostgreSQL |
-| **yolov8-Aerial-detector** | YOLOv8-based ship detection training and inference. | Python, YOLOv8, Label Studio |
+|----------|------------------|------|
+| [**Banking-dashboard-analytics**](https://github.com/FloydSteevSanthmayer/Banking-dashboard-analytics) | End-to-end analytics project with data ingestion, cleaning, and interactive Power BI dashboard. | Python, SQL, Power BI |
+| [**Customer-trends-analytics**](https://github.com/FloydSteevSanthmayer/Customer-trends-analytics) | Reproducible pipeline analyzing retail customer purchase patterns. | Python, SQL, Power BI |
+| [**Healthcare-Data-Analysis-Reporting**](https://github.com/FloydSteevSanthmayer/Healthcare-Data-Analysis-Reporting) | End-to-end healthcare data analysis with cleaning, validation, feature engineering, and reporting. | Python, SQL, Power BI |
+| [**yolov8-Aerial-detector**](https://github.com/FloydSteevSanthmayer/yolov8-Aerial-detector) | YOLOv8-based ship detection training and inference. | Python, YOLOv8, Label Studio |
 
 ---
 
