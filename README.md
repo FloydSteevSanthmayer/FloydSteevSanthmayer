@@ -1,26 +1,26 @@
-<!-- Centered header -->
-<p align="right" style="margin-bottom:5px;">
+<!-- Profile Views (Right Side) -->
+<p align="right" style="margin-bottom:4px;">
   <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
 </p>
 
+<!-- Social Buttons Centered -->
+<p align="center" style="margin-top:0px; margin-bottom:6px;">
 
   <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20.5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20"/>
   </a>
 
   <a href="https://your-portfolio.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="20.5"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge" height="20"/>
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&to=floydsteev.santhmayer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="20.5"/>
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="20"/>
   </a>
-</p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
+
 </p>
 
-# About Me
+<h2 style="margin-top:6px;">About Me</h2>
 
 - **💼 Professional summary**
   - Data-driven Data Analyst with a strong Data Science foundation.
