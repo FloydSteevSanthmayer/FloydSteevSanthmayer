@@ -19,7 +19,7 @@
   <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
   <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="15"/>
 </p>
 
 # About Me
