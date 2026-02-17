@@ -7,9 +7,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25"/>
   <!-- Portfolio -->
   <a href="https://your-portfolio.site" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-FF7A00?logo=google-chrome&logoColor=white&style=for-the-badge"/>
