@@ -19,11 +19,11 @@
 </p>
 
 <!-- Profile Views (Right Side Below Buttons) -->
-<p align="right" style="margin-top:2px; margin-bottom:8px;">
-  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
+<p align="right" style="margin-top:8px; margin-bottom:8px;">
+  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="17"/>
 </p>
 
-<h2 style="font-size:34px; font-weight:700; margin-top:-1px;">
+<h2 style="font-size:32px; font-weight:700; margin:0; padding-top:3px;">
   About Me
 </h2>
 
