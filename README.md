@@ -1,8 +1,8 @@
 <!-- Centered header -->
-<h1 align="center" style="font-size:48px;">
-  Hi, I'm <strong>Floyd Steev Santhmayer</strong>
-</h1>
-<p align="center">
+<p align="right" style="margin-bottom:5px;">
+  <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
+</p>
+
 
   <a href="https://www.linkedin.com/in/floydsteevsanthmayer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="20.5"/>
@@ -19,6 +19,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
 </p>
+<h2 style="margin-top:5px;">About Me</h2>
 
 # About Me
 
