@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=FloydSteevSanthmayer&style=flat" height="18"/>
 </p>
 
-<h2 style="font-size:34px; font-weight:700; margin-top:1px;">
+<h2 style="font-size:34px; font-weight:700; margin-top:-1px;">
   About Me
 </h2>
 
